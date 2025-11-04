@@ -181,10 +181,6 @@ make test
 
 ---
 
-## Bônus (não obrigatório)
-
----
-
 ## Licença
 
 Este projeto é apenas para fins de entrevista técnica.
